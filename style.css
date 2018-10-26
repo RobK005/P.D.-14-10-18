@@ -1,0 +1,52 @@
+.div1 {
+    padding: 20px;
+}
+
+.div2 {
+    height: 200px;
+    overflow: hidden;
+    margin: 20px;
+}
+
+/* .JFDZL2 {
+    padding: 10px;
+} */
+
+img {
+    width: 300px;
+    margin: 20px;
+}
+
+@media (max-width: 768px) {
+    .flex-container {
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+    }
+}
+
+.jumbotron {
+    margin: 20px;
+}
+
+h4 {
+    font-weight: bold;
+    margin: 0 20px;
+}
+
+.rob {
+    margin: 0 40px;
+}
+
+/* .flex-container {
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+}
+
+@media (max-width: 768px) {
+    .keyboards {
+        flex-direction: column;
+    }
+} */
+
